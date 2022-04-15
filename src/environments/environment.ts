@@ -10,4 +10,5 @@
 
 export const environment = {
   production: false,
+  server: "http://200.28.63.173:5001/lexia/api"
 };
